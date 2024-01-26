@@ -7,7 +7,7 @@ Ziad Jowhar#, Albert Xu#, Srivats Venkataramanan, Francesco Dossena, Mariah Hoye
 ### biorXiv (2023) ###
 https://www.biorxiv.org/content/10.1101/2023.05.11.540322v1
 
-Now published in ### Molecular Systems Biology ###
+Now published in Molecular Systems Biology:
 
 https://www.embopress.org/doi/full/10.1038/s44320-024-00013-0
 
