@@ -2,10 +2,15 @@ Here it is a collection of processed data and code to reproduce all figures in o
 
 ### A ubiquitous GC content signature underlies multimodal mRNA regulation by DDX3X ### 
 
-Ziad Jowhar#, Albert Xu#, Srivats Venkataramanan, Mariah Hoye, Debra L Silver, Stephen N Floor* and Lorenzo Calviello*
+Ziad Jowhar#, Albert Xu#, Srivats Venkataramanan, Francesco Dossena, Mariah Hoye, Debra L Silver, Stephen N Floor* and Lorenzo Calviello*
 
 ### biorXiv (2023) ###
 https://www.biorxiv.org/content/10.1101/2023.05.11.540322v1
+
+Now published in ### Molecular Systems Biology ###
+
+https://www.embopress.org/doi/full/10.1038/s44320-024-00013-0
+
 
 The "make_figures.R" script generates all figures in .pdf in the Figures/ folder, using data in the data/ folder
  
